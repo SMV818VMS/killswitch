@@ -1,0 +1,6 @@
+p3_B_S1	../data/C20p3/B_S1_L001_R1_001.fastq.gz	../data/C20p3/B_S1_L001_R2_001.fastq.gz
+p3_B_S2	../data/C20p3/B_S2_L001_R1_001.fastq.gz	../data/C20p3/B_S2_L001_R2_001.fastq.gz
+p15_7_S3	../data/C20p15/7_S3_L001_R1_001.fastq.gz	../data/C20p15/7_S3_L001_R2_001.fastq.gz
+p15_7_S5	../data/C20p15/7_S5_L001_R1_001.fastq.gz	../data/C20p15/7_S5_L001_R2_001.fastq.gz
+p2_6_S2	../data/C20p2/6_S2_L001_R1_001.fastq.gz	../data/C20p2/6_S2_L001_R2_001.fastq.gz
+p2_6_S4	../data/C20p2/6_S4_L001_R1_001.fastq.gz	../data/C20p2/6_S4_L001_R2_001.fastq.gz

@@ -1,0 +1,4 @@
+p2_8_S2	../data/C26p2/8_S2_L001_R1_001.fastq.gz	../data/C26p2/8_S2_L001_R2_001.fastq.gz
+p2_8_S3	../data/C26p2/8_S3_L001_R1_001.fastq.gz	../data/C26p2/8_S3_L001_R2_001.fastq.gz
+p15_9_S7	../data/C26p15/9_S7_L001_R1_001.fastq.gz	../data/C26p15/9_S7_L001_R2_001.fastq.gz
+p15_9_S3	../data/C26p15/9_S3_L001_R1_001.fastq.gz	../data/C26p15/9_S3_L001_R2_001.fastq.gz
